@@ -545,6 +545,9 @@ footer{
 @media only screen and (max-width: 900px) {
     .nav-button{
         display: none;
+        color: white;
+        padding: 10px 20px;
+        border: 1px solid black;
     }
     .nav-menu.responsive{
         left: 0;
